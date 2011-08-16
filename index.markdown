@@ -1,6 +1,6 @@
 ---
 title: The Majestic Sea Creature
-layout: default
+layout: main
 ---
 
 # The Majestic Sea Creature and other short stories by Gregory Brown
