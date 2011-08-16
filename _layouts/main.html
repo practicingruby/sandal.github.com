@@ -2,11 +2,11 @@
   <head>
     <script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
     <script type="text/javascript" src="/js/galleria/galleria-1.2.5.min.js"></script>
-    <script type="text/javascript" src="galleria/themes/classic/galleria.classic.min.js"></script>
   </head>
   <body>
   {{content}}
   <script>
+      Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.min.js');
       $('#gallery').galleria({width: 640, height:480});
   </script>
 
