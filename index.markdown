@@ -1,1 +1,5 @@
+---
+title: Index
+---
+
 ## A Test
