@@ -7,5 +7,5 @@ layout: main
 
 <div id="gallery">
     <img src="/images/slideshow/octopus_kite.jpg" alt="Amazing Octopus Kite" title="Octokite">
-    <img src="/images/slideshow/hont_kong.jpg" alt="THe breathtaking skyline in Hong Kong" title="Hong Kong">
+    <img src="/images/slideshow/hong_kong.jpg" alt="THe breathtaking skyline in Hong Kong" title="Hong Kong">
 </div>
