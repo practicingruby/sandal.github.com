@@ -1,5 +1,4 @@
 ---
-title: Index
+title: The Majestic Sea Creature
 ---
 
-## A Test
