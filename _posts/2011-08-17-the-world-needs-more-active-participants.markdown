@@ -26,7 +26,7 @@ Try letting your friends talk you out of your own ideas. If you ask three people
 
 You spend all your energy on the day job and don't want to sacrifice your family life to persue side projects. But this mindset only reinforces the illusion that those who do great things have huge volumes of free time, or must take massive sacrifices to experience success.
 
-Success comes by working efficiently with the resources you have available. Having less free time just means picking smaller challenges to work on, or building something gradually over time. Even full time employees with a grueling work schedule could find a way to spare one weekend a month to work on a side project. Or if weekends are family time, consider waking up an hour early, or taking a vacation day once every two months to do something for yourself. Be realistic about what you can accomplish, and it will happen.
+Success comes by working efficiently with the resources you have available. Having less free time just means picking smaller challenges to work on, or building something gradually over time. Even full time employees with a grueling work schedule could find a way to spare one weekend each month to work on a side project. Or if weekends are family time, consider waking up an hour early, or taking a vacation day once every two months to do something for yourself. Be realistic about what you can accomplish, and it will happen.
 
 **Maybe you are already working on something of your own, but haven't shipped.**
 
