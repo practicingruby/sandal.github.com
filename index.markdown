@@ -19,7 +19,7 @@ I am the founder of Mendicant University, a free online school for software deve
 </p>
 
 <p style="text-align: justify; font-size: 1.2em; line-height: 1.3em">
-Majestic Seacreature is my personal site, and on it you'll find a dump of links to things I find interesting every Tuesday, an essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
+<b>Majestic Seacreature</b> is my personal site, and on it you'll find a dump of links to things I find interesting every Tuesday, an essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
 </div>
 
 <div align="center">
