@@ -23,7 +23,7 @@ I am the founder of <a href="http://university.rubymendicant.com" style="color: 
 </div>
 
 <div align="center">
-<p style="font-family: 'Wicked Grit'; font-size: 1.5em;">
+<p style="font-family: 'Wicked Grit'; font-size: 1.5em; color: #FEFEF2">
 LINK DUMPS ~ ESSAYS ~ PROJECT UPDATES ~ CONTACT
 </p>
 </div>
