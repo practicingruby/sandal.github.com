@@ -28,7 +28,7 @@ You spend all your energy on the day job and don't want to sacrifice your family
 
 Success comes by working efficiently with the resources you have available. Having less free time just means picking smaller challenges to work on, or building something gradually over time. Even full time employees with a grueling work schedule could find a way to spare a weekend a month to work on a side project. Or if weekends are family time, consider waking up an hour early, or taking a vacation day once every two months to do something for yourself. Be realistic about what you can accomplish, and it will happen.
 
-**Maybe you are already working on somethng, but haven't shipped.**
+**Maybe you are already working on something of your own, but haven't shipped.**
 
 Ship! Nothing more needs to be said here, because every lesson you need to know you'll learn by putting your creations out there into the world and seeing what happens.
 
