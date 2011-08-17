@@ -15,11 +15,11 @@ layout: main
 <h2>Hi, I am Gregory Brown.</h2>
 
 <p style="text-align: justify; font-size: 1.2em; line-height: 1.3em">
-I am the founder of Mendicant University, a free online school for software developers. I am also the author of the Practicing Ruby newsletter, and was the original developer of the popular PDF generation library Prawn. These projects are living proof of my love for teaching, writing, and building stuff.
+I am the founder of <a href="http://university.rubymendicant.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Mendicant University</a>, a free online school for software developers. I am also the author of the <a href="http://practicingruby.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Practicing Ruby newsletter</a>, and was the original developer of the popular PDF generation library <a href="http://practicingruby.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
 </p>
 
 <p style="text-align: justify; font-size: 1.2em; line-height: 1.3em">
-<b>Majestic Seacreature</b> is my personal site, and on it you'll find a dump of links to things I find interesting every Tuesday, an essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
+<b><u>Majestic Seacreature</u></b> is my personal site, and on it you'll find a dump of links to things I find interesting every Tuesday, an essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
 </div>
 
 <div align="center">
