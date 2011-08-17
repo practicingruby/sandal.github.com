@@ -14,7 +14,7 @@ With nothing more than a laptop and an internet connection, you can literally ch
 
 You compare yourself to those precious few rockstars and ninjas out there, and feel that you are still light years away from doing what they can do. But remember, most of these folks worked for years to obtain their first overnight success. 
 
-You probably don't need to learn as much as you think you do in order to do something useful. That said, you will never be able to prioritize which skills are most important to learn unless you have a particular goal in mind. Smart people are tempted to think that they can completely master a topic, but software does not work that way. The only road map you can meaningfully follow is one that you draw for yourself, and it is impossible to do that without some sort of destination.
+You probably don't need to learn as much as you think you do. That said, you will never be able to prioritize which skills are most important to learn unless you have a particular goal in mind. Smart people are tempted to think that they can completely master a topic, but software does not work that way. The only road map you can meaningfully follow is one that you draw for yourself, and it is impossible to do that without some sort of destination.
 
 **Maybe you have the skills, but you are not great at coming up with your own ideas.** 
 
