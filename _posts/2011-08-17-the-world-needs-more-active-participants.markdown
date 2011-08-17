@@ -14,7 +14,7 @@ With nothing more than a laptop and an internet connection, you can literally ch
 
 You compare yourself to those precious few rockstars and ninjas out there, and feel that you are still light years away from doing what they can do. But remember, most of these folks worked for years to obtain their first overnight success. 
 
-Without a particular goal in mind, you will never be able to prioritize which skills are most important to learn, and in what order. Smart people are tempted to think that they can completely master a topic, but software does not work that way. The only road map you can meaningfully follow is one that you draw for yourself, and it is impossible to do that without some sort of destination.
+You will never be able to prioritize which skills are most important to learn unless you have a particular goal in mind. Smart people are tempted to think that they can completely master a topic, but software does not work that way. The only road map you can meaningfully follow is one that you draw for yourself, and it is impossible to do that without some sort of destination.
 
 **Maybe you have the skills, but you are not great at coming up with your own ideas.** 
 
@@ -24,7 +24,7 @@ Try letting your friends talk you out of your own ideas. If you ask three people
 
 **Maybe you have a good idea and the skills, but you don't have the time.** 
 
-You spend all your energy on the day job and don't want to sacrifice your family life to persue side projects. But this mindset only reinforces the illusion that those who do great things have huge volumes of free time, or must make massive sacrifices in order to experience success.
+You spend all your energy on the day job and don't want to sacrifice your family life to pursue side projects. But this mindset only reinforces the illusion that those who do great things have huge volumes of free time, or must make massive sacrifices in order to experience success.
 
 Success comes by working efficiently with the resources you have available. Having less free time just means picking smaller challenges to work on, or building something gradually over time. Even full time employees with a grueling work schedule could find a way to spare one weekend each month to work on a side project. Or if weekends are family time, consider waking up an hour early, or taking a vacation day once every two months to do something for yourself. Be realistic about what you can accomplish, and it will happen.
 
