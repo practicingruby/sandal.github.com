@@ -2,12 +2,46 @@
   <head>
     <script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
     <script type="text/javascript" src="/js/galleria/galleria-1.2.5.min.js"></script>
+    <style>
+      @font-face {
+        font-family: "Wicked Grit";
+        src: url("/font/WickedGrit.ttf");
+      }
+
+      @font-face {
+        font-family: "Comfortaa";
+        src: url("/font/Comfortaa-Regular.ttf");
+      }
+      #container {
+        width: 850px;
+        margin: 0 auto;
+        color: white;
+        min-height: 500px;
+        padding: 20px;
+        font-family: "Comfortaa" 
+      }
+      
+      div#header {
+        background-color: #eee; text-align: center;
+      }
+
+      h1 { font-family: "Wicked Grit"; font-size: 4em }
+      h2 { font-size: 2.2em; margin-top: 0}
+      
+      body { background-color: black; margin: 0; padding: 0 }
+    </style>
   </head>
   <body>
-  {{content}}
+    <div id="header">
+      <h1>Majestic Seacreature</h1>
+    </div>
+
+    <div id="container">
+      {{content}}
+    </div>
   <script>
-      Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.min.js');
-      $('#gallery').galleria({width: 640, height:480});
+      Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.js');
+      $('#gallery').galleria({width: 640, height:480, autoplay: 7000});
   </script>
 
   </body>

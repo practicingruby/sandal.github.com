@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="/js/galleria/galleria-1.2.5.min.js"></script>
+    <style>
+      @font-face {
+        font-family: "Wicked Grit";
+        src: url("/font/WickedGrit.ttf");
+      }
+
+      @font-face {
+        font-family: "Comfortaa";
+        src: url("/font/Comfortaa-Regular.ttf");
+      }
+      #container {
+        width: 850px;
+        margin: 0 auto;
+        color: white;
+        min-height: 500px;
+        padding: 20px;
+        font-family: "Comfortaa" 
+      }
+      
+      div#header {
+        background-color: #eee; text-align: center;
+      }
+
+      h1 { font-family: "Wicked Grit"; font-size: 4em }
+      h2 { font-size: 2.2em; margin-top: 0}
+      
+      body { background-color: black; margin: 0; padding: 0 }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <h1>Majestic Seacreature</h1>
+    </div>
+
+    <div id="container">
+      <div style='width: 350px; float: right; margin-top: 55px'>
+<img src='/images/wuhan.jpg' style='border: 4px solid white; width: 350px; margin-top: 0px;' />
+
+<p>Me with my wife Jia in Wuhan, China. In case you were wondering, I am the white guy, and my wife is the woman in the red jacket.</p>
+</div><div style='width: 425; height: 450px; '>
+
+<h2>Hi, I am Gregory Brown.</h2>
+
+<p style='text-align: justify; font-size: 1.2em; line-height: 1.3em'>
+I am the founder of Mendicant University, a free online school for software developers. I am also the author of the Practicing Ruby newsletter, and was the original developer of the popular PDF generation library Prawn. All of these things happened because I love to teach, write, and build stuff.
+</p>
+
+<p style='text-align: justify; font-size: 1.2em; line-height: 1.3em'>
+This is my personal site, and on it you'll find a dump of links to things I find interesting every Tuesday, an essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
+</div><div align='center'>
+<p style='font-family: &apos;Wicked Grit&apos;; font-size: 1.5em;'>
+LINK DUMPS ~ ESSAYS ~ PROJECT UPDATES ~ CONTACT
+</p>
+</div>
+    </div>
+  <script>
+      Galleria.loadTheme('js/galleria/themes/classic/galleria.classic.js');
+      $('#gallery').galleria({width: 640, height:480, autoplay: 7000});
+  </script>
+
+  </body>
+</html>
