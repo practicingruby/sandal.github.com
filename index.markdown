@@ -17,7 +17,7 @@ I am the founder of <a href="http://university.rubymendicant.com" style="color: 
 </p>
 
 <p style="text-align: justify; font-size: 1.2em; line-height: 1.3em">
-<b><u>Majestic Seacreature</u></b> is my personal site, and here you will find a dump of links to things that interest me every Tuesday, a new essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
+<b>MAJESTIC SEACREATURE</b> is my personal site, and here you will find a dump of links to things that interest me every Tuesday, a new essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
 </div>
 
 <p style="font-family: 'Wicked Grit'; font-size: 1.5em; color: #FEFEF2; text-align: center">
