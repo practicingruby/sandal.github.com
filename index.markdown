@@ -5,7 +5,7 @@ layout: main
 <div style="width: 350px; float: right; margin-top: 55px">
 <img src="/images/wuhan.jpg" style="border: 4px solid white; width: 350px; margin-top: 0px;">
 
-<p>Me with my wife Jia in Wuhan, China. In case you were wondering, I am the white guy, and my wife is the woman in the red jacket.</p>
+<p style="font-size: 1.0em">Me with my wife Jia in Wuhan, China. In case you were wondering, I am the guy eating the sweet potato, and my wife is wearing the red jacket.</p>
 </div>
 
 
@@ -22,8 +22,7 @@ I am the founder of <a href="http://university.rubymendicant.com" style="color: 
 <b><u>Majestic Seacreature</u></b> is my personal site, and here you will find a dump of links to things that interest me every Tuesday, a new essay every Wednesday, and a progress report about the various open source software and education projects I'm working on every Thursday.</p>
 </div>
 
-<div align="center">
-<p style="font-family: 'Wicked Grit'; font-size: 1.5em; color: #FEFEF2">
+<p style="font-family: 'Wicked Grit'; font-size: 1.5em; color: #FEFEF2; text-align: center">
 LINK DUMPS ~ ESSAYS ~ PROJECT UPDATES ~ CONTACT
 </p>
-</div>
+
