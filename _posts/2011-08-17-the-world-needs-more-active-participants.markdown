@@ -34,4 +34,4 @@ Ship! Nothing more needs to be said here, because every lesson you need to know 
 
 </hr>
 
-<p style="text-align: right; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
