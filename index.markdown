@@ -2,13 +2,13 @@
 title: The Majestic Sea Creature
 layout: main
 ---
-<div style="width: 350px; float: right; margin-top: 20px">
+<div style="width: 350px; float: right; margin-top: 40px">
 <img src="/images/wuhan.jpg" style="border: 4px solid white; width: 350px; margin-top: 0px;">
 
 <p style="font-size: 0.9em">Me with my wife Jia in Wuhan, China. In case you were wondering, I am the guy eating the sweet potato, and my wife is wearing the red jacket.</p>
 </div>
 
-<div style="width: 400; height: 400px; font-size: 1.0em ">
+<div style="width: 400; height: 425px; font-size: 1.0em ">
 
 <h2>Hi, I am Gregory Brown.</h2>
 
