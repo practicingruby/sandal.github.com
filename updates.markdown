@@ -3,7 +3,7 @@ title: Weekly Project Updates
 layout: main
 ---
 
-<div style="width: 350px; float: right; margin-top: 30px">
+<div style="width: 350px; float: right; margin-top: 45px">
 <img src="/images/garden.jpg" style="border: 4px solid white; width: 350px; margin-top: 0px;">
 
 <p style="font-size: 1.0em">When I'm not working, I enjoy doing a little bit of gardening. It is a great hobby for busy people, because it only takes a few minutes a day but is still very relaxing.</p>

@@ -3,7 +3,7 @@ title: All Essays
 layout: main
 ---
 
-<div style="width: 350px; float: right; margin-top: 30px">
+<div style="width: 350px; float: right; margin-top: 45px">
 <img src="/images/octopus_kite.jpg" style="border: 4px solid white; width: 350px; margin-top: 0px;">
 
 <p style="font-size: 1.0em">This is the best kite in the world. I bought it in People's Square, Shanghai. It takes two people about 20 minutes to reel it in whenever there is a good wind.</p>
