@@ -13,7 +13,7 @@ layout: main
 <h2>Hi, I am Gregory Brown.</h2>
 
 <p>
-I am the founder and guiding teacher of <a href="http://university.rubymendicant.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Mendicant University</a>, a free online school for software developers. I am also the author of the <a href="http://practicingruby.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Practicing Ruby</a> weekly newsletter, and the original developer of the PDF generation library <a href="http://prawn.majesticseacreature.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
+I am the founder and guiding teacher of <a href="http://university.rubymendicant.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Mendicant University</a>, a free online school for socially minded software developers. I am also the author of the <a href="http://practicingruby.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Practicing Ruby</a> weekly newsletter, and the original developer of the PDF generation library <a href="http://prawn.majesticseacreature.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
 </p>
 
 <p>
