@@ -12,7 +12,7 @@ layout: main
 <div style="width: 400; height: 425px;">
 <h2>Essays by Gregory Brown</h2>
 
-<p>You'll find a new essay here every Tuesday. If you enjoy reading my articles, you might want to <a href="">support my efforts</a> so that I can write more great stuff for you.</p>
+<p>You'll find a new essay here every Tuesday. If you enjoy reading my articles, you might want to <a href="">support my efforts</a> so that I can keep writing great stuff for you.</p>
 
 <ul>
 {% for post in site.categories.essays %}
