@@ -13,9 +13,9 @@ layout: main
 <h2>Hi, I am Gregory Brown.</h2>
 
 <p>
-I am the founder of <a href="http://university.rubymendicant.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Mendicant University</a>, a free online school for software developers. I am also the author of the <a href="http://practicingruby.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Practicing Ruby</a> newsletter, and the original developer of the PDF generation library <a href="http://prawn.majesticseacreature.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
+I am the founder and guiding teacher of <a href="http://university.rubymendicant.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Mendicant University</a>, a free online school for software developers. I am also the author of the <a href="http://practicingruby.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Practicing Ruby</a> weekly newsletter, and the original developer of the PDF generation library <a href="http://prawn.majesticseacreature.com" style="color: #ff9640; text-decoration: none;" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
 </p>
 
 <p>
-<b>MAJESTIC SEACREATURE</b> is my personal site. Here you will find a dump of links to things that interest me every Tuesday, a new essay every Wednesday, and a progress report about the various software and educational projects I'm working on every Thursday.</p>
+<b>MAJESTIC SEACREATURE</b> is my personal site. Here you will find new <a href="">links</a> to things that interest me on Tuesdays, new <a href="/essays.html">essays</a> on Wednesdays, and <a href="/updates.html">updates</a> about the various free software and educational projects I'm working on every Thursday.</p>
 </div>
