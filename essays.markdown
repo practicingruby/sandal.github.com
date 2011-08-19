@@ -9,10 +9,15 @@ layout: main
 <p style="font-size: 1.0em">This is the best kite in the world. I bought it in People's Square, Shanghai. It takes two people about 20 minutes to reel it in whenever there is a good wind.</p>
 </div>
 
-<div style="width: 450; height: 450px;">
+<div style="width: 400; height: 425px;">
 <h2>Essays by Gregory Brown</h2>
 
+<p>You'll find a new essay here every Tuesday. If you enjoy reading my articles, you might want to <a href="">support my efforts</a> so that I can write more great stuff for you.</p>
+
+<ul>
 {% for post in site.categories.essays %}
-  <p> ~ <a href="{{post.url}}" style="color: #fefef2; text-decoration: none;">{{ post.title }}</a></p>
+  <li>{{ post.date | date: "%Y.%m.%d" }}: <a href="{{post.url}}" style="color: #ff9640; text-decoration: none;">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
+
 </div>
