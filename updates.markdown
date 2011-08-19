@@ -15,7 +15,7 @@ layout: main
 <p>Every Wednesday I will post an update here about the various projects I'm working on. You may want to <a href="">support my efforts</a> so that I can keep working on open source projects and educational initiatives full time.</p>
 <ul>
 {% for post in site.categories.updates %}
-  <li>{{ post.date | date: "%Y.%m.%d" }}: <a href="{{post.url}}" style="color: #ff9640; text-decoration: none;">{{ post.title }}</a></li>
+  <li>{{ post.date | date: "%Y.%m.%d" }}: <a href="{{post.url}}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
