@@ -8,7 +8,7 @@ layout: main
 <p style="font-size: 1.0em">Me with my wife Jia in Wuhan, China. In case you were wondering, I am the guy eating the sweet potato, and my wife is wearing the red jacket.</p>
 </div>
 
-<div style="width: 400; height: 425px;">
+<div style="width: 400; height: 450px;">
 
 <h2>Hi, I am Gregory Brown.</h2>
 
