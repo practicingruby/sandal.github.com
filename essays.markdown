@@ -4,7 +4,7 @@ layout: main
 ---
 
 <div style="width: 350px; float: right; margin-top: 45px">
-<img src="/images/octopus_kite.jpg" style="border: 4px solid white; width: 350px; margin-top: 0px;">
+<img src="/images/octopus_kite.jpg">
 
 <p style="font-size: 1.0em">This is the best kite in the world. I bought it in People's Square, Shanghai. It takes two people about 20 minutes to reel it in whenever there is a good wind.</p>
 </div>
@@ -16,7 +16,7 @@ layout: main
 
 <ul>
 {% for post in site.categories.essays %}
-  <li>{{ post.date | date: "%Y.%m.%d" }}: <a href="{{post.url}}" style="color: #ff9640; text-decoration: none;">{{ post.title }}</a></li>
+  <li>{{ post.date | date: "%Y.%m.%d" }}: <a href="{{post.url}}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
