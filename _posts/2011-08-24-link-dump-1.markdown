@@ -1,0 +1,47 @@
+---
+title: "Weekly Link Dump #1"
+category: links
+layout: main
+---
+
+## {{ page.title }}
+
+<hr>
+
+[Rails 3.0.10 Released](http://weblog.rubyonrails.org/2011/8/16/ann-rails-3-0-10) This release includes critical security patches. The core team also released fixes for [Rails 2.3](http://weblog.rubyonrails.org/2011/8/16/ann-rails-2-3-14) and [Rails 3.1](http://weblog.rubyonrails.org/2011/8/16/ann-rails-3-1-0-rc6). I guess folks should go ahead and update their stuff!
+
+[On rvm's cd script](http://batkin.tumblr.com/post/8847990062/on-rvms-cd-script): This is probably old news by now, but was the source of a lot of controversy around RVM lately. Ben does a good job of summarizing the facts rather than just wildly speculating.
+
+[Official ruby-lang.org port to Jekyll](https://github.com/ruby/ruby-lang.org): Also old news, but really good to see this bit of Ruby drama end peacefully. Moving to Jekyll is a brilliant idea, I've been loving it so far for majesticseacreature.com
+
+[Don't Talk to the Cops](http://www.youtube.com/watch?v=i8z7NC5sgik): Compelling argument about why you shouldn't talk to the cops whether you are innocent and guilty. [Be sure to see part 2 for a police officer's perspective](http://www.youtube.com/watch?v=08fZQWjDVKE&feature=related ). He agrees! I watched this video a while ago but stumbled upon it again the other day.
+
+[Edit like an Ace](https://github.com/blog/905-edit-like-an-ace): Github adds support for [Ace](http://ace.ajax.org/), a javascript based code editor. Looks spiffy, and makes those one line pull requests that much more comfortable to submit. Now none of us have an excuse not to make trivial patches to open source projects!
+
+[Realtime Webcam Sudoku Solver](http://www.codeproject.com/KB/game/WebcamSudokuSolver.aspx): Lets you point your webcam at a sudoku puzzle and then provides a solution back. Have not tried it myself, but the explanation of the hack is awesome, and very detailed.
+
+[xkcd #937](http://xkcd.com/937/): Illustrates the problem with averaging star ratings. This is something that has always bugged me. I wonder if some form of "Good, Bad, Meh" scale would be better, without averages.
+
+[Six Months of Civil War in Libya](http://www.theatlantic.com/infocus/2011/08/six-months-of-civil-war-in-libya/100130/): The quality of [In Focus](http://www.theatlantic.com/infocus/) photo sets has always amazed me, in a similar way to [The Big Picture](http://www.boston.com/bigpicture/) blog. I wonder though if curating only the most extreme scenes is a remotely honest form of journalism.
+
+[PostBin](http://www.postbin.org/): Found this via a recommendation in the MailChimp API documentation. Collects arbitrary form data posted to a URL, sorting captures from newest to oldest. Useful for testing web hooks.
+
+[Hominid](https://github.com/terra-firma/hominid): Very lightweight Ruby wrapper around the MailChimp API. Be sure to have the [MailChimp documentation](http://apidocs.mailchimp.com/api/rtfm/) handy, because this library automatically transforms your Ruby calls into remote procedure calls, and is otherwise undocumented.
+
+[Hans Rosling's 200 Countries, 200 Years, 4 Minutes](http://www.youtube.com/watch?v=jbkSRLYSojo): Can't decide if this is an awesome way to use data visualizations, or if it reminds me too much of CNN style "Hey look, I'm standing in front of a graph! We've got fancy technology!" Still, the underlying story that the data tells is interesting.
+
+[Scala and Ruby Rosetta Stone](http://www.nevercertain.com/2011/08/17/scala-ruby-rosetta.html): Interesting how similar Scala and Ruby primitives are, at least on the surface. Somehow Scala has never excited me though, don't know why.
+
+[Fulcrum](http://wholemeal.co.nz/projects/fulcrum.html): A free and open source clone of Pivotal Tracker, released under the GNU AGPL. The design looks a bit clunky, but looks like an impressive attempt at replicating the core functionality of Tracker. I will need to try this thing out at some point. Hopefully they won't receive a cease and desist letter from Pivotal's lawyers before then :)
+
+[Etherpad Lite](https://github.com/Pita/etherpad-lite): "Etherpad lite is a really-real time collaborative editor spawned from the Hell fire of Etherpad." Written in Node.js and is supposed to be much easier to set up and much more memory efficient than Etherpad. 
+
+[Steve Klabnik is Making It Dead Simple To Contribute To Ruby's Documentation](http://blog.steveklabnik.com/2011/08/22/im-making-it-dead-simple-to-contribute-to-ruby-s-documentation.html): Want to help out with documenting Ruby but feel like submitting a patch is too hard? Send your changes to Steve instead, and he'll submit them to Ruby's core team for you.
+
+[Best. Roomate. Ever.](http://sfbay.craigslist.org/sfc/sha/2549849730.html) Hilarious craigslist post about a guy who *really* wants to be an amazing roommate. He even volunteers to cook for you and play Pink Floyd on his guitar. Sounds like a bromance in the making to me.
+
+[Tim Berners-Lee Interview](http://www.newstatesman.com/scitech/2011/08/berners-lee-web-world-internet): The creator of the web talks about how he has to shield himself from the endless stream of correspondense he receives on the net, but also about how wide-open, unfettered internet is more important than ever. Very interesting read.
+
+<hr>
+
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this post, please share it with your friends.</p>
