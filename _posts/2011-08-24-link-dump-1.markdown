@@ -4,7 +4,7 @@ category: links
 layout: main
 ---
 
-## {{ page.title }}
+## {{ page.title }} ({{ page.date | date: "%Y.%m.%d" }})
 
 <hr>
 
