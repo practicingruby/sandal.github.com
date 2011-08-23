@@ -16,7 +16,7 @@ layout: main
 
 [Official ruby-lang.org port to Jekyll](https://github.com/ruby/ruby-lang.org): Also old news, but really good to see this bit of Ruby drama end peacefully. Moving to Jekyll is a brilliant idea, I've been loving it so far for majesticseacreature.com
 
-[Don't Talk to the Cops](http://www.youtube.com/watch?v=i8z7NC5sgik): Compelling argument about why you shouldn't talk to the cops whether you are innocent and guilty. [Be sure to see part 2 for a police officer's perspective](http://www.youtube.com/watch?v=08fZQWjDVKE&feature=related ). He agrees! I watched this video a while ago but stumbled upon it again the other day.
+[Don't Talk to the Cops](http://www.youtube.com/watch?v=i8z7NC5sgik): Compelling argument about why you shouldn't talk to the cops whether you are innocent or guilty. [Be sure to see part 2 for a police officer's perspective](http://www.youtube.com/watch?v=08fZQWjDVKE&feature=related ). He agrees! I watched this video a while ago but stumbled upon it again the other day.
 
 [Edit like an Ace](https://github.com/blog/905-edit-like-an-ace): Github adds support for [Ace](http://ace.ajax.org/), a javascript based code editor. Looks spiffy, and makes those one line pull requests that much more comfortable to submit. Now none of us have an excuse not to make trivial patches to open source projects!
 
