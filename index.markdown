@@ -18,5 +18,5 @@ I am the founder and guiding teacher of <a href="http://university.rubymendicant
 </p>
 
 <p>
-<b>MAJESTIC SEACREATURE</b> is my personal site. Here you will find new <a href="">links</a> to things that interest me on Tuesdays, new <a href="/essays.html">essays</a> on Wednesdays, and <a href="/updates.html">updates</a> about the various free software and educational projects I'm working on every Thursday.</p>
+<b>MAJESTIC SEACREATURE</b> is my personal site. Here you will find new <a href="/links.html">links</a> to things that interest me on Tuesdays, new <a href="/essays.html">essays</a> on Wednesdays, and <a href="/updates.html">updates</a> about the various free software and educational projects I'm working on every Thursday.</p>
 </div>
