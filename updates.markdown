@@ -12,7 +12,7 @@ layout: main
 <div style="width: 400; height: 425px;">
 <h2>Weekly Progress Reports</h2>
 
-<p>Every Wednesday I will post an update here about the various projects I'm working on. You may want to <a href="">support my efforts</a> so that I can keep working on open source projects and educational initiatives full time.</p>
+<p>I post an update here every Thursday about the various projects I'm working on. You may want to <a href="/support.html">support my efforts</a> so that I can keep working on educational initiatives and open source projects full time.</p>
 <ul>
 {% for post in site.categories.updates %}
   <li>{{ post.date | date: "%Y.%m.%d" }}: <a href="{{post.url}}">{{ post.title }}</a></li>

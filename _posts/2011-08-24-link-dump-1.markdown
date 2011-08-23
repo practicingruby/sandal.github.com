@@ -8,7 +8,9 @@ layout: main
 
 <hr>
 
-[Rails 3.0.10 Released](http://weblog.rubyonrails.org/2011/8/16/ann-rails-3-0-10) This release includes critical security patches. The core team also released fixes for [Rails 2.3](http://weblog.rubyonrails.org/2011/8/16/ann-rails-2-3-14) and [Rails 3.1](http://weblog.rubyonrails.org/2011/8/16/ann-rails-3-1-0-rc6). I guess folks should go ahead and update their stuff!
+[Practicing Ruby Volume 2](http://practicingruby.com): My subscription newsletter is officially started back up again. Wait a couple weeks if you want a more polished experience and greater details, but those who know what this newsletter is all about or feel adventurous should go ahead and sign up now.
+
+[Rails 3.0.10 Released](http://weblog.rubyonrails.org/2011/8/16/ann-rails-3-0-10): This release includes critical security patches. The core team also released fixes for [Rails 2.3](http://weblog.rubyonrails.org/2011/8/16/ann-rails-2-3-14) and [Rails 3.1](http://weblog.rubyonrails.org/2011/8/16/ann-rails-3-1-0-rc6). I guess folks should go ahead and update their stuff!
 
 [On rvm's cd script](http://batkin.tumblr.com/post/8847990062/on-rvms-cd-script): This is probably old news by now, but was the source of a lot of controversy around RVM lately. Ben does a good job of summarizing the facts rather than just wildly speculating.
 
