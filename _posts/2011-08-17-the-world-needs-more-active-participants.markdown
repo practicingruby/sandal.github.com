@@ -1,5 +1,5 @@
 ---
-title: The World Needs More Active Participants
+title: The world needs more active participants
 category: essays
 layout: main
 ---
