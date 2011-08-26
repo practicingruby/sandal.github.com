@@ -1,0 +1,58 @@
+---
+title: "Progress Report #13"
+category: updates
+layout: main
+---
+
+## {{ page.title }}
+
+<hr>
+
+
+_My efforts on [Mendicant University](http://university.rubymendicant.com) as well as my work on various open source projects and educational initiatives are made possible by the many folks in the Ruby community who [support me with small monthly payments](/support.html) so that I can keep doing what I'm doing._
+
+### Practicing Ruby
+
+The big news of the week is that the second volume of my [Practicing Ruby newsletter](http://practicingruby.com) has launched! I began gradually sending out invitations on Friday, and posted the public signup form on Monday. On Tuesday, I published the first article of the second volume, which is on the myriad ways that Ruby lets you load code. It's going to be a couple more weeks before the custom application I'm building for supporting the newsletter is fully fleshed out, but right now folks are receiving my emails and I can accept payments, so that means the bare minimum is taken care of!
+
+Right now I already have 71 paid subscribers, which is awesome for week 1, considering this was just a soft launch. If those subscriptions continue to grow (which I believe they will), then between the monthly revenue I get from the Ruby Mendicant Supporter Network and Practicing Ruby, I may be able to actually meet my living expenses. This would be amazing, because I know I can handle doing the work for Practicing Ruby each week without it interrupting my work on MU or open source projects that much. I shouldn't count my chickens before they hatch, but I'll be sure to keep folks updated on what those numbers are looking like.
+
+I am trying to think of ways that I can make my work on Practicing Ruby have a reach that extends beyond just its subscribers though. I think I'm going to set up some sharing features similar to what [Ramen Music](http://ramenmusic.com) does, in which you can share the articles with others via a link that gets your name attached to it. I'm also thinking of open sourcing the at least some of custom software I'm building to run this newsletter service. But I think I need to build more of that stuff before I get too excited about sharing it.
+
+The most obvious thing I can do is release more Practicing Ruby content for free, especially since I'm still sitting on six more articles from the first volume. I will get another one of those out very soon. The main delay has only been that it's tedious to edit and format for the web what was originally a plain text email. Jia has been helping with the conversion process, but I still need to edit the content each time I release one of those articles, and that takes time. :-/
+
+### Majestic Seacreature
+
+I fleshed out the rest of this website, and I think that within the next week or two I'll post an announcement on blog.majesticseacreature.com telling readers to look for new content here instead. It feels good to have a centralized, well organized place for my content. I will try my best to keep to the schedule of new links every Tuesday, new essays every Wednesday, and project updates every Thursday, but we'll see how it goes. 
+
+While I designed this site myself, the folks in the supporter network gave me a lot of feedback on its overall look and feel. As design is something that I'm painfully slow and terribly bad at, I was really lucky to have that kind of help. The end result may not look perfect, but I'm happy with it!
+
+### Mendicant University
+
+Over the last week or so Shane and I have continued preparing for the upcoming September session. We've introduced some [major changes](http://blog.majesticseacreature.com/the-next-year-of-mendicant-university) to our core skills course and [university-web](http://github.com/rmu/university-web) has also changed quite a bit, so preparations were harder than normal. But we've now done all the housekeeping chores and have finally started the orientation process for the new students. We're already starting to see project ideas roll in from the students, so that's a sign that we're off to a good start, despite the turbulence.
+
+But that's not all that's been keeping us busy. After seeing the buzz around [rubythankful.com]([rubythankful.com), we found ourselves simultaneously inspired and feeling like we could take things a bit farther. To do so, we decided to [show our thanks to OSS maintainers](http://university.rubymendicant.com/changelog/saying-thanks-to-oss-maintainers) by making tiny contributions to their projects. This sparked off a lot of really interesting discussions within our alumni network about perhaps how we could make this sort of thing a more regular activity. Only time will tell if anything will come of that, but it at least felt good to show even a tiny bit of appreciation for those projects we typically take for granted.
+
+We have also made some progress on the "coding for social good" hackfect that we want to run in late October. Shane, Jia, and I met with several of the alumni about this today and we now have a rough plan in place for that event. I'll be sure to write that plan up and share it here as soon as the students have had a chance to discuss it a bit more. 
+
+Today's meeting caused us to come up with another event that we plan to run a few weeks before the hackfest. While we haven't worked out the exact details, we basically want to pair our mentors up with OSS-beginners who want to make their first contribution to a free software project. Like the Hackfest, this event will also be open to the public, so be sure to stay tuned for more news soon.
+
+Last but not least, we've revisited our plan to set up minimum activity requirements for MU alumni, and have decided to tweak it a bit. I should be able to provide an update next week with details on that, but basically, we're going to be looking for activity every trimester rather than once a year, to help encourage a culture of participation at MU.
+
+### RubyGems
+
+Getting anything done with RubyGems is quite a slow process. I called the core devs out on this today, and Ryan has promised to be more responsive moving forward. I met with him today to get some final answers on a ticket that's been lingering since I started getting involved in this whole process. It's the one about the "scary warnings scaring helpless developers". My [last comment on the ticket](https://github.com/rubygems/rubygems/issues/84#issuecomment-1904557) pretty much sums up the position of the maintainers. At this point I'm considering this discussion over, even if no one quite got what they wanted. The root cause of the problem is differing opinions about how to deal with legacy software, and that conversation is a whole lot more complicated than just deciding whether to have quiet or noisy warnings. By closing this ticket, I've hopefully made that point to those on both sides of the fence.
+
+I've also still been bugging the RubyGems guys about how they're still using Eric's blog for announcements about releases. I really want these to be on rubygems.org, either at blog.rubygems.org or a newly created news.rubygems.org. I've received yet another acknowledgement from Ryan that they will do this between now and the next release, but I guess we'll have to wait and see. I've already confirmed that the Jekyll-based blog currently set up works as expected, so it's just a matter of getting them to use it.
+
+Am I frustrated about how much effort it takes to get small things done with RubyGems? You bet I am. But I don't see any real alternative here that is any better than being patient but persistent. I don't have the desire to become a full-on maintainer of RubyGems and I still believe that even if there is someone out there who does, they'd need to be able to work with the existing team. Until that happens I'll just try to keep a foot in the door and help out in whatever little ways I can.
+
+### Software Development for Beginners, Session 2 (New Haven, CT)
+
+I had promised that I'd share meeting notes or possibly even a recording from the local training session I ran with Jordan last week, but we radically changed the format of the class at the last minute. We did do a pretty cool MineCraft logic demo that I may eventually turn into a screencast, but that was only a few minutes of the class. The rest of the time we spent in small discussion groups figuring out how to best make the class work for our students. Our plan is roughly to help each student work on a personal project while simultaneously having them work through either [Learn Python the Hard Way](http://learnpythonthehardway.org/) or the newly translated [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/). Zed's book is entirely exercise based, so I think it should be a good resource for this class. I plan to have the students review each other's work as they go, with guidance from Jordan and me.
+
+We plan to run another one of these next month, so I'll be sure to include an update on how things go, and if there are any resources I can share, I will.
+
+### Plans for the next week
+
+I'm going to have my hands full with working on Practicing Ruby and continuing to prepare for the MU September core skills session, but I am also hoping to get back into some open source coding soon. I have lots of things I want to do with a Bookie, and another weird little project idea on the horizon. I'll try to spend at least one day between now and next week writing some code I can share with you, so that I can shake this feeling of not really being a programmer anymore :) 
