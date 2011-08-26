@@ -9,7 +9,7 @@ layout: main
 <hr>
 
 
-_My efforts on [Mendicant University](http://university.rubymendicant.com) as well as my work on various open source projects and educational initiatives are made possible by the many folks in the Ruby community who [support me with small monthly payments](/support.html) so that I can keep doing what I'm doing._
+_My efforts on [Mendicant University](http://university.rubymendicant.com) as well as my work on various open source projects and educational initiatives are made possible by the many folks in the Ruby community who [support me with small monthly payments](/support.html) so that I can spend my time on this stuff rather than worrying about how to pay the bills._
 
 ### Practicing Ruby
 
