@@ -55,4 +55,4 @@ We plan to run another one of these next month, so I'll be sure to include an up
 
 ### Plans for the next week
 
-I'm going to have my hands full with working on Practicing Ruby and continuing to prepare for the MU September core skills session, but I am also hoping to get back into some open source coding soon. I have lots of things I want to do with a Bookie, and another weird little project idea on the horizon. I'll try to spend at least one day between now and next week writing some code I can share with you, so that I can shake this feeling of not really being a programmer anymore :) 
+I'm going to have my hands full with working on Practicing Ruby and continuing to prepare for the MU September core skills session, but I am also hoping to get back into some open source coding soon. I have lots of things I want to do with [Bookie](http://github.com/sandal/bookie), and another weird little project idea on the horizon. I'll try to spend at least one day between now and next week writing some code I can share with you, so that I can shake this feeling of not really being a programmer anymore :) 
