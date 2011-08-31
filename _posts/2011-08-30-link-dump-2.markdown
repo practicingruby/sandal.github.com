@@ -1,0 +1,40 @@
+---
+title: "Weekly Link Dump #2"
+category: links
+layout: main
+---
+
+## {{ page.title }} ({{ page.date | date: "%Y.%m.%d" }})
+
+<hr>
+
+[Thoughtbot Playbook](http://playbook.thoughtbot.com/): Rough outline of the way Thoughtbot runs their consulting business. Based on a quick read, I agree with most of their advice. 
+
+[Virtuous Code: Do we need constants?](http://avdi.org/devblog/2011/08/18/do-we-need-constants/): Maybe we don't *need* them, but they're useful semantic constructs. Does make you wonder if they tend to be overused a bit in Ruby though.
+
+[Do Not Want](https://github.com/garybernhardt/do_not_want): "Stops ActiveRecord from doing things you probably didn't want." Sounds like its main focus is on disabling AR methods which skip callbacks and/or validations. There are a lot of those!
+
+[Goodbye, shitty Car extends Vehicle object-orientation tutorial](http://lists.canonical.org/pipermail/kragen-tol/2011-August/000937.html): Very interesting post about contrived examples and how they can be harmful in teaching object-oriented programming.
+
+[Rotations of Rubik's Cube](http://pnyf.inf.elte.hu:8000/Rubik_en.xml): Haskell code implementing a representation of a Rubik's cube and its possible rotations. Looks like Haskell's syntax is beautifully expressive for tasks like this. Includes some exercises which can be verified in the browser.
+
+[What does 0^0 (zero raised to the zeroth power) equal?](http://is.gd/7E5hXp): Sort of illustrates the difference between computation taught in primary school and real mathematics, in a roundabout way. Also reminds me how much I miss just working through proofs all day.
+
+[The Collatz conjecture, Littlewood-Offord theory, and powers of 2 and 3](http://terrytao.wordpress.com/2011/08/25/the-collatz-conjecture-littlewood-offord-theory-and-powers-of-2-and-3/): I hate the Collatz conjecture because one of my professors assigned it as a homework problem without telling us it was unsolved. But somehow, anything anyone says about it is still fascinating to me.
+
+[How Apple works: Inside the world's biggest startup](http://tech.fortune.cnn.com/2011/08/25/how-apple-works-inside-the-worlds-biggest-startup/?iid=HP_Highlight): Aside from the usual Steve Jobs hero-worship, this provides an interesting and detailed look into what the culture at Apple is like. No idea if it's accurate, but a fascinating read at least.
+
+[I am nothing](http://paulbuchheit.blogspot.com/2011/08/i-am-nothing.html): Paul Buchheit ruminates on the flexibility that comes with freeing yourself from your identity. Seems very Buddhism-inspired, but maybe I'm just thinking that because I'm headed on retreat this weekend.
+
+[Why Arabic is Terrific](http://idlewords.com/2011/08/why_arabic_is_terrific.htm): Neat overview of the interesting features of the Arabic language. If I had an infinite amount of time I'd probably spend a lot of it on learning languages. Unfortunately, I can barely find the time to brush up on basic Mandarin, and I need that to communicate with my wife's family!
+
+[Call Me Bun](http://bunlai.tumblr.com/): New Haven sustainable sushi chef and all around amazing guy Bun Lai is blogging now. Looking forward to reading up on his adventures.
+
+[Alcoholic Vervet Monkeys (YouTube)](http://www.youtube.com/watch?v=pSm7BcQHWXk): Ahahahaha, drunken monkeys. I would have loved to have been the one to shoot this documentary.
+
+[Saturday Morning Breakfast Cereal - No](http://www.smbc-comics.com/?id=2349): Like "who's on first", but for chemistry geeks.
+
+<hr>
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this post, please share it with your friends.</p>
+
+
