@@ -32,6 +32,6 @@ Success comes by working efficiently with the resources you have available. Havi
 
 Ship! Nothing more needs to be said here, because every lesson you need to know you'll learn by putting your creations out there into the world and seeing what happens.
 
-</hr>
+<hr>
 
 <p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>

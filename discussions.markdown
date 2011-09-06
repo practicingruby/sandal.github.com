@@ -13,7 +13,7 @@ layout: main
 <h2>{{page.title}}</h2>
 
 <div style="font-size: 0.9em;">
-<p>I recently stopped posting actively to Twitter, and developed a distaste for
+<p>I recently stopped having conversations on Twitter, and developed a distaste for
 blog comments. I also try to stay off Hacker News and Reddit for the most part,
 because they are insanely distracting to me. That said, I'm not nearly as much
 of an internet hermit as it seems, and love to have conversations with
