@@ -1,0 +1,44 @@
+---
+title: "Weekly Link Dump #3"
+category: links
+layout: main
+---
+
+## {{ page.title }} ({{ page.date | date: "%Y.%m.%d" }})
+
+<hr>
+
+[A Vulnerability in RubyGems](http://www.rubyflow.com/items/6419-rubygems-pwn-a-vulnerability-in-rubygems-currently-being-fixe): Article on RubyInside describing a vulnerability in RubyGems exposed by the rubygems-pwn gem. This issue was recently fixed in the 1.8.10 release. 
+
+[Your code is my hell](http://avdi.org/devblog/2011/08/22/your-code-is-my-hell/): Avdi says "the messiest, nastiest big-ball-of-mud code I have seen in my entire career has been in Ruby on Rails projects". Having done rescue projects, I agree. But I wonder if anyone has had the same feelings towards my old unmaintained code.
+
+[Why Developers Never Use State Machines](http://www.skorks.com/2011/09/why-developers-never-use-state-machines/): This article speaks directly to me, as I struggle with this question every time I have a status field on a record, and very rarely use state machines.
+
+[Etherpad Lite Ruby Client](https://github.com/jhollinger/ruby-etherpad-lite): Now I have one less reason to put off trying out Etherpad Lite.
+
+[New Hope for The Ruby Specification](http://yehudakatz.com/2011/09/05/new-hope-for-the-ruby-specification/): Yehuda Katz points out the large amount of undefined behavior in Ruby's draft ISO spec along with some background about it.
+
+[What I Learned In Four Years of Rails Consulting](http://railsrx.com/2011/09/06/what-i-learned/): Noel Rappin shares some of the lessons he learned during his time as a Rails consultant. Much of these hard-earned lessons are ones that I also stumbled across in my work for Madriska, so they may be worth bearing in mind for anyone new to this kind of work.
+
+[Do you really understand Ruby's self?](https://gist.github.com/1200895): Ben Orenstein posted a neat gist showing Ruby's loose policies about keywords.
+
+[What Would You Do With Your Own Google?](http://www.youtube.com/watch?v=vKmQW_Nkfk8): Steve Yegge gives a strong talk about how and why we should be working on important problems. He also points out just how much of our brainpower is being wasted on stupid social networking problems.
+
+[Global Issues](http://www.globalissues.org/): Site which collects and categorizes "Social, Political, Economic, and Environmental Issues That Affect Us All". Looks interesting but I was surprised that there is no education category.
+
+[Politifact](http://www.politifact.com/): Site which tracks and reports on the validity of claims made by politicians. I remember seeing this a while ago, but stumbled across it again the other day.
+
+[Id to Release Doom 3 Source Code](http://www.gamasutra.com/view/news/36383/Id_To_Release_Doom_3_Source_Code.php): It still amazes me that Id open sources their stuff, even if they wait a while to do it.
+
+[Mari0](http://stabyourself.net/mari0/): Apparently this is a clone of Super Mario Brothers which introduces game elements from Portal. Amazing, and hopefully not an April Fool's Joke.
+
+[LÖVE](http://love2d.org/): A two-dimensional game creation framework for Lua.
+
+[Move, Learn, Eat](http://www.ilikeitwhatis.it/2011/08/07/this-is-move/): I don't know why, but I'm a sucker for these sort of collage-type videos.
+
+[WikiHouse](http://www.wikihouse.cc/): A project that is developing open plans for building houses using a CNC mill. Looks like we're getting closer and closer to Diamond Age matter compilers. :)
+
+[Lake Erie Death Watch](http://www.onearth.org/article/lake-erie-death-watch): To save the lake, phosphorous dumping needs to be reduced by two thirds. This was done decades ago, so perhaps it can be done again?
+
+<hr>
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this post, please share it with your friends.</p>
