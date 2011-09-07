@@ -8,11 +8,13 @@ layout: main
 
 <hr>
 
-[A Vulnerability in RubyGems](http://www.rubyflow.com/items/6419-rubygems-pwn-a-vulnerability-in-rubygems-currently-being-fixe): Article on RubyInside describing a vulnerability in RubyGems exposed by the rubygems-pwn gem. This issue was recently fixed in the 1.8.10 release. 
+[A Vulnerability in RubyGems](http://www.rubyflow.com/items/6419-rubygems-pwn-a-vulnerability-in-rubygems-currently-being-fixe): Ruby Flow post describing a vulnerability in RubyGems exposed by the rubygems-pwn gem. This issue was recently fixed in the 1.8.10 release. 
 
 [Your code is my hell](http://avdi.org/devblog/2011/08/22/your-code-is-my-hell/): Avdi says "the messiest, nastiest big-ball-of-mud code I have seen in my entire career has been in Ruby on Rails projects". Having done rescue projects, I agree. But I wonder if anyone has had the same feelings towards my old unmaintained code.
 
 [Why Developers Never Use State Machines](http://www.skorks.com/2011/09/why-developers-never-use-state-machines/): This article speaks directly to me, as I struggle with this question every time I have a status field on a record, and very rarely use state machines.
+
+[A MiniTest::Spec Tutorial](http://www.rubyinside.com/a-minitestspec-tutorial-elegant-spec-style-testing-that-comes-with-ruby-5354.html): Brief but great overview of MiniTest::Spec over on RubyInside.
 
 [Etherpad Lite Ruby Client](https://github.com/jhollinger/ruby-etherpad-lite): Now I have one less reason to put off trying out Etherpad Lite.
 
