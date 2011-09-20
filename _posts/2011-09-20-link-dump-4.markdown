@@ -1,0 +1,50 @@
+---
+title: "Weekly Link Dump #4"
+category: links
+layout: main
+---
+
+## {{ page.title }} ({{ page.date | date: "%Y.%m.%d" }})
+
+<hr>
+
+[Unobtrusive Ruby](http://robots.thoughtbot.com/post/10125070413/unobtrusive-ruby): Excellent list of things to keep in mind when designing Ruby libraries. But because it is so concise, it's probably begging for a response blog post which fleshes out the concepts. Will do that if I find the time.
+
+[Private Methods: To Test or Not To Test?](http://nicksda.apotomo.de/2011/09/private-methods-to-test-or-not-to-test/): Good discussion in the comments about whether or not private methods should be tested. [I don't think they should be](http://blog.rubybestpractices.com/posts/gregory/034-issue-5-testing-antipatterns.html), but it's still a good topic to think on.
+
+[Making a Mockery of TDD](http://avdi.org/devblog/2011/09/06/making-a-mockery-of-tdd/): Interesting points by Avdi about using mock objects in testing. I agree with pretty much everything except the value of mock objects for design. Be sure to also see Practicing Ruby Issues [1.19](http://blog.rubybestpractices.com/posts/gregory/051-issue-19-thoughts-on-mocking.html) and [1.20](http://blog.rubybestpractices.com/posts/gregory/052-issue-20-thoughts-on-mocking.html).
+
+[SOLID Design Principles](http://blog.rubybestpractices.com/posts/gregory/055-issue-23-solid-design.html): This was one of the most popular Practicing Ruby articles from Volume 1, now released on the blog.
+
+[Connascence as a Software Design Metric](http://blog.rubybestpractices.com/posts/gregory/056-issue-24-connascence.html): Don't know what connascence is? Read this Practicing Ruby article right now. It's one of the most useful mental models I've found for reasoning about coupling.
+
+[Base, the Universal Base Class You've Always Wanted](https://github.com/garybernhardt/base): ZOMG! I need this! But seriously, great way to make a point about an annoying anti-pattern that is all too common.
+
+[Github Flow](http://scottchacon.com/2011/08/31/github-flow.html): This is a much better approach than git-flow if you want to do continuous deployment. Even in cases where there are releases (such as open source projects), I still prefer something similar to what the guys over at Github are doing.
+
+[How to Focus in the Age of Distraction](http://learningfundamentals.com.au/wp-content/uploads/Focus-mindmap-for-web.jpg): Very pretty graphic reminding you how to fight back against the shiny things on the internets. Including shiny things like this pretty graphic, I suppose.
+
+[Sustainable Sushi Restaurant Drops Tuna From Its Menu](http://www.epicurious.com/articlesguides/blogs/editor/2011/09/sustainable-sushi-restaurant-drops-tuna-from-its-menu.html#ixzz1YWf0CoY9): Bun Lai is my one of my heroes. He provides an excellent example of successfully running a business while unapologetically sticking to his ethical principles.
+
+[Writing Tetris in Clojure](http://codethat.wordpress.com/2011/09/10/writing-tetris-in-clojure/): I think studying the creation of games can really tell you a lot about programming as well as programming languages. Neat stuff.
+
+[Hans Lemurson's "Minecraft in Minecraft" (youtube)](http://www.youtube.com/watch?v=gdnO1QZJ--M): Uses redstone circuits to implement a primitive 2D version of minecraft in MineCraft. Insert "yo dawg" joke here.
+
+[Donkey Kong in Minecraft (youtube)](http://www.youtube.com/watch?v=AHMd5nVyrNk): Pfft, I won't be impressed until I can play Donkey Kong in Minecraft in Minecraft! 
+
+[Why Inspiration Talks Don't Work](http://blog.sfgate.com/jtaylor/2011/09/07/why-inspirational-talks-dont-work/): This sort of explains why I hate keynote presentations at tech conferences. Rather than trying to motivate people with inspiring stories, we should seek to help them find their own inspiration. 
+
+[Montessori Education Method](http://en.wikipedia.org/wiki/Montessori_method): One of the students at Mendicant University pointed out that this teaching style is somewhat similar to ours. Never really thought about that, but he may be right. The main difference is that Montessori focused on children, while we teach adults.
+
+[Guilt Through Algorithmic Association](http://www.zephoria.org/thoughts/archives/2011/09/12/guilt-through-algorithmic-association.html): This is really something that every producer of web applicatons should be thinking about. The impacts of our seemingly innocuous features go much deeper than we think.
+
+[Dr. Michio Kaku, America has a secret weapon](http://wimp.com/kakusecret/): Powerful explanation of why the USA still manages to see scientific progress despite its horrible schooling. It's a direct result of us leaning so heavily on H1-B workers. Certainly has been my experience, from what I've seen from Jia and her friends. We need a more sustainable approach unless we want all our great international minds to move back home.
+
+[Mandatory PS3 update removes right to join in a class-action lawsuit](http://arstechnica.com/gaming/news/2011/09/mandatory-ps3-update-removes-right-to-join-in-a-class-action-lawsuit.ars): Why are there not laws against things like this? Oh that's right, laws are meant to protect corporate people, not human people. My bad.
+
+[Frugality won't make you rich](http://www.thesimpledollar.com/2011/09/13/frugality-wont-make-you-rich/): "Instead, it makes it possible for you to become rich". I don't know if I live a 'frugal' life, but I try to stay out of debt and limit needless spending on material things. I think that having modest expectations in life does indeed make it possible for you to live more freely, which is my definition of wealth.
+
+[Spiked Math Comics #436: Mathbook](http://spikedmath.com/436.html): I am simultaneously proud and ashamed of being nerdy enough to find this funny.
+
+<hr>
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this post, please share it with your friends.</p>
