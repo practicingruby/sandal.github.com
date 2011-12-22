@@ -1,0 +1,14 @@
+---
+title: "Progress Report #14"
+category: updates
+layout: main
+---
+
+## {{ page.title }} ({{ page.date | date: "%Y.%m.%d" }})
+
+<hr>
+
+
+_My efforts on [Mendicant University](http://university.rubymendicant.com) as well as my work on various open source projects and educational initiatives are made possible by the many folks in the Ruby community who [support my work](/support.html) so that I can keep doing what I'm doing._
+
+
