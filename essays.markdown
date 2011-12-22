@@ -1,5 +1,5 @@
 ---
-title: All Essays
+title: Essays
 layout: main
 ---
 
@@ -10,7 +10,7 @@ layout: main
 </div>
 
 <div style="width: 400; height: 425px;">
-<h2>Essays by Gregory Brown</h2>
+<h2>{{page.title}}</h2>
 
 <p>You'll find a new essay here each Wednesday. If you enjoy reading my articles, you might want to <a href="/support.html">support my efforts</a> so that I can keep writing great stuff for you.</p>
 
