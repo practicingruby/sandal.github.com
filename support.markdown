@@ -25,7 +25,7 @@ early access to various things I'm working on, as well as some other perks.</p>
 
 <p>Does that sound too much like some sort of hippy scheme to you? If so,
 consider subscribing to the <a href="http://practicingruby.com">Practicing Ruby
-newsletter</a>. This way, you still can support me financially while getting 
+journal</a>. This way, you still can support me financially while getting 
 something specific in return.</p>
 </div>
 
