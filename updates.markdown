@@ -1,5 +1,5 @@
 ---
-title: Weekly Project Updates
+title: Project Updates
 layout: main
 ---
 
@@ -10,7 +10,7 @@ layout: main
 </div>
 
 <div style="width: 400; height: 425px;">
-<h2>Weekly Progress Reports</h2>
+<h2>{{page.title}}</h2>
 
 <p>I post an update here every Thursday about the various projects I'm working on. You may want to <a href="/support.html">support my efforts</a> so that I can keep working on educational initiatives and open source projects full time.</p>
 <ul>
