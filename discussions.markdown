@@ -13,17 +13,15 @@ layout: main
 <h2>{{page.title}}</h2>
 
 <div style="font-size: 0.9em;">
-<p>I recently stopped having conversations on Twitter, and developed a distaste for
-blog comments. I also try to stay off Hacker News and Reddit for the most part,
-because they are insanely distracting to me. That said, I'm not nearly as much
-of an internet hermit as it seems, and love to have conversations with
-folks who are interested in the things I'm interested in.</p>
+<p>For quick questions or comments, you can tweet something to @seacreature.
+However, twitter is a poor conversation format. I'd much prefer it if you
+wrote a blog post and then sent me the link, or if you'd catch up with me
+over Freenode. I am seacreature there and you can always find me in the
+#mendicant channel</p>
 
 <p>If you want to talk to me in private, you can email me at
 gregory.t.brown@gmail.com, but please keep in mind my inbox is very busy and
-it might take me some time to get back to you. If you want to discuss things
-in public, you can either blog a response to something I've said and email me
-a link, or find me on IRC in either the #rmu or #seacreature channel.</p>
+it might take me some time to get back to you.</p>
 
 </div>
 
