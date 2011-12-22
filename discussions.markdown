@@ -17,7 +17,7 @@ layout: main
 However, twitter is a poor conversation format. I'd much prefer it if you
 wrote a blog post and then sent me the link, or if you'd catch up with me
 over Freenode. I am seacreature there and you can always find me in the
-#mendicant channel</p>
+#mendicant channel.</p>
 
 <p>If you want to talk to me in private, you can email me at
 gregory.t.brown@gmail.com, but please keep in mind my inbox is very busy and
