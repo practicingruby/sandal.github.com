@@ -1,5 +1,5 @@
 ---
-title: Discussions and Debates
+title: Discussions
 layout: main
 ---
 
