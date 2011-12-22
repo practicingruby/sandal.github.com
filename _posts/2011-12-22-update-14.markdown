@@ -11,4 +11,4 @@ layout: main
 
 _My efforts on [Mendicant University](http://university.rubymendicant.com) as well as my work on various open source projects and educational initiatives are made possible by the many folks in the Ruby community who [support my work](/support.html) so that I can keep doing what I'm doing._
 
-After several months of radio silence, it's probably about time for me to start doing these progress reports again. I didn't stop because I was bored of writing these status updates, but instead because I was badly overcommitted and a bit burned out.
+After several months of radio silence, it's probably about time for me to start doing these progress reports again. I didn't stop because I was bored of writing these status updates, but instead because I have been badly overcommitted and a bit burned out.
