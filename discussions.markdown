@@ -16,7 +16,7 @@ layout: main
 <p>For quick questions or comments, you can tweet something to <a
 href="http://twitter.com/seacreature">@seacreature</a>.
 However, twitter is a poor conversation format. I'd much prefer it if you
-write a blog post and then sent me the link, or if you catch up with me
+write a blog post and then send me a link, or if you catch up with me
 via Freenode. I am <b>seacreature</b> there and you can always find me in the
 #mendicant channel.</p>
 
