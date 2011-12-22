@@ -14,7 +14,7 @@ layout: main
 
 <p>
 I am the founder and guiding teacher of <a href="http://university.rubymendicant.com" target='_blank'>Mendicant University</a>, a free online school for socially minded software developers. I am also the author of the <a href="http://practicingruby.com" 
- target='_blank'>Practicing Ruby</a> weekly newsletter, and the original developer of the PDF generation library <a href="http://prawn.majesticseacreature.com" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
+ target='_blank'>Practicing Ruby</a> journal, and the original developer of the PDF generation library <a href="http://prawn.majesticseacreature.com" target='_blank'>Prawn</a>. These projects are living proof of my love for teaching, writing, and building stuff.
 </p>
 
 <p>
