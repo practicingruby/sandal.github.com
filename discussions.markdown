@@ -17,8 +17,8 @@ layout: main
 href="http://twitter.com/seacreature">@seacreature</a>.
 However, twitter is a poor conversation format. I'd much prefer it if you
 write a blog post and then send me a link, or if you catch up with me
-via Freenode. I am <b>seacreature</b> there and you can find me in the
-#mendicant channel.</p>
+via Freenode. Just send a message to <b>seacreature</b> in the
+<b>#mendicant</b> channel.</p>
 
 <p>If you want to talk to me in private, you can email me at
 gregory.t.brown@gmail.com, but please keep in mind my inbox is very busy and
