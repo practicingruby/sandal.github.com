@@ -13,7 +13,8 @@ layout: main
 <h2>{{page.title}}</h2>
 
 <div style="font-size: 0.9em;">
-<p>For quick questions or comments, you can tweet something to @seacreature.
+<p>For quick questions or comments, you can tweet something to <a
+href="http://twitter.com/seacreature">@seacreature</a>.
 However, twitter is a poor conversation format. I'd much prefer it if you
 wrote a blog post and then sent me the link, or if you'd catch up with me
 over Freenode. I am seacreature there and you can always find me in the
