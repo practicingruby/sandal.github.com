@@ -21,7 +21,7 @@ via Freenode. Just send a message to <b>seacreature</b> in the
 <b>#mendicant</b> channel.</p>
 
 <p>If you want to talk to me in private, you can email me at
-gregory.t.brown@gmail.com, but please keep in mind my inbox is very busy and
+<b>gregory.t.brown@gmail.com</b>, but please keep in mind my inbox is very busy and
 it might take me some time to get back to you. For the most part,
 I tend to respond to every email I receive within a couple days.</p>
 
