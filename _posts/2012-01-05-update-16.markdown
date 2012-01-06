@@ -1,0 +1,26 @@
+---
+title: "Progress Report #16"
+category: updates
+layout: main
+---
+
+## {{ page.title }} ({{ page.date | date: "%Y.%m.%d" }})
+
+<hr/>
+
+_My efforts on [Mendicant University](http://university.rubymendicant.com) as well as my work on various open source projects and educational initiatives are made possible by the many folks in the Ruby community who [support my work](/support.html) so that I can keep doing what I'm doing._
+
+Things have still been a bit slow over the last week, but I did get a few things done. 
+
+**We've been reviewing student project and community service projects** for the upcoming Mendicant University core skills course. I typically don't discuss these until after the course ends, but as usual we've got an exciting mix of projects that students will be working on and I can't wait to see what they come up with.
+
+**I've wrapped up a three-week project for Practicing Ruby** that involved building a large collection of case studies to explore the topics covered by [ISO/IEC 9126](http://en.wikipedia.org/wiki/ISO/IEC_9126) (an international standard for evaluating code quality). While this content is currently still behind the pay wall, it planted the seeds for a lot of interesting ideas that I'll be sure to share with the public reasonably soon.
+
+**I built a small personal web page** for my friend [Nick Mauro](http://nickmauro.com/), and also got him set up with an [alonetone account](http://alonetone.com/nhmjazz/bio). While this was just a favor to a friend, it involves some interesting open source stuff. Alonetone is an MIT licensed Rails application that [has its code on github](https://github.com/sudara/alonetone), and Nick's personal page is using a template called [The Personal Page](https://github.com/weightshift/The-Personal-Page). Alonetone in particular interests me as a project worth contributing to, and I've reached out to Sudara to see if perhaps some of the folks at Mendicant University can help out with the project at some point.
+
+**Work continues on the Mendicant University community website.** Jordan and I put some rudimentary CMS functionality into the app today and tomorrow he'll be working on the RubyFlow inspired bits of functionality. We may have something suitable for the public eye within the next week or two.
+
+**I wrote an essay called [Staying home for a change](http://majesticseacreature.com/essays/2012/01/04/staying-home.html)**. In it, I tell the story about how I came to love Ruby conferences, and why I won't be attending any in 2012. The main reason I'm taking a break from the conference circuit is because I want to encourage myself to invest more in my local community, and to engage more with non-technical people.
+
+While some other stuff happened this week, this is what stands out. Most of my time in the next few weeks will be dedicated to heads-down writing work for Practicing Ruby, and to teaching the January core skills session at Mendicant. I'll try to keep doing these progress reports for the sake of consistency, but may end up going dark for a couple weeks if those things eat up too much of my time. I guess we'll have to wait and see how things go. :) 
+<hr/>
