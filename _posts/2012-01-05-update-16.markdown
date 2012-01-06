@@ -12,7 +12,7 @@ _My efforts on [Mendicant University](http://university.rubymendicant.com) as we
 
 Things have still been a bit slow over the last week, but I did get a few things done. 
 
-**We've been reviewing student project and community service projects** for the upcoming Mendicant University core skills course. I typically don't discuss the details of these until after the course ends, but as usual we've got an exciting mix of projects that students will be working on. If all goes well, we'll end up with up to 13 new open source projects and 13 pull requests to existing community projects by the end of January.
+**We've been reviewing personal projects and community service projects** for the upcoming Mendicant University core skills course. I typically don't discuss the details of these until after the course ends, but as usual we've got an exciting mix of projects that students will be working on. If all goes well, we'll end up with up to 13 new open source projects and 13 pull requests to existing community projects by the end of January.
 
 **I've wrapped up a three-week project for Practicing Ruby** that involved building a large collection of case studies to explore the topics covered by [ISO/IEC 9126](http://en.wikipedia.org/wiki/ISO/IEC_9126) (an international standard for evaluating code quality). While this content is currently still behind the pay wall, it planted the seeds for a lot of interesting ideas that I'll be sure to share with the public reasonably soon.
 
