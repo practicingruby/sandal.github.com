@@ -23,7 +23,7 @@ via Freenode. Just send a message to <b>seacreature</b> in the
 <p>If you want to talk to me in private, you can email me at
 <b>gregory.t.brown@gmail.com</b>, but please keep in mind my inbox is very busy and
 it might take me some time to get back to you. For the most part,
-I tend to respond to every email I receive within a few days, but occassionally
+I tend to respond to every email I receive within a few days, but occasionally
 declare email bankruptcy if I fall too far behind.</p>
 
 </div>
