@@ -6,7 +6,7 @@ layout: main
 
 The [second task](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students/content/what-do-you-want-your-learners-to-learn/) we've been assigned in [Greg Wilson's P2PU course](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students) is meant to help us figure out exactly who we're trying to help through our teaching efforts. We've been asked to explore this question by writing up biographies for the various personas that represent our target audience. For me this is a bit of an awkward exercise because we already have such a diverse and vibrant community associated with Mendicant University, but it doesn't hurt to try to identify the prototypical groups that our students tend to fall into. 
 
-## Our Learners
+### Our Learners
 
 Off the top of my head, I came up with a total of seven different personas, but bear in mind that we take a very personalized approach in our program and so this list is bound to be painfully incomplete and far more black-and-white than how we really see our students.
 
@@ -46,5 +46,5 @@ Some of our students are unsatisfied with simply learning skills on demand, and 
 
 Because we know that a very high percentage of our students decided to take online courses with us in the first place due to their desire for continuous improvement, we are gradually building an environment that will actively support this kind of learner. After taking our core skills course, students can go on to take additional alumni-level courses that explore a range of different topics. So far we've created a software development course and a software design course, and are experimenting with introducing a number of other sessions as well. However, we are careful to make sure that these projects all involve some sort of tie back to reality through the regular use of discussion about real projects as our primary teaching tool. In addition to formal courses, we also have been organizing hackfests and other "learn while doing" activities that are much smaller commitments than what a full course might be. This gives our students a chance to keep honing their craft without having to radically alter their working schedules or burn the midnight oil.
 
-## So what does this all mean?
+### So what does this all mean?
 
