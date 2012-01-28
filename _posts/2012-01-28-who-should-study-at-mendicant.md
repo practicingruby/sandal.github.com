@@ -4,7 +4,7 @@ category: essays
 layout: main
 ---
 
-The [second task](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students/content/what-do-you-want-your-learners-to-learn/) we've been assigned in [Greg Wilson's P2PU course](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students) is meant to help us figure out exactly who we're trying to help through our teaching efforts. We've been asked to explore this question by writing up biographies for the various personas that represent our target audience. For me this is a bit of an awkward exercise because we already have such a diverse and vibrant community associated with Mendicant University, but nonetheless it doesn't hurt to try to identify the prototypical patterns that our students tend to fall into.
+The [second task](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students/content/what-do-you-want-your-learners-to-learn/) we've been assigned in [Greg Wilson's P2PU course](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students) is meant to help us figure out exactly who we're trying to help through our teaching efforts. We've been asked to explore this question by writing up biographies for the various personas that represent our target audience. For me this is a bit of an awkward exercise because we already have such a diverse and vibrant community associated with Mendicant University, but it doesn't hurt to try to identify the prototypical patterns that our students tend to fall into.
 
 **The Pioneer**
 
