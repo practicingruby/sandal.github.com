@@ -20,4 +20,6 @@ By not attending conferences this year, I am giving myself a chance to focus my 
 
 Of course, I will not be off the radar. My work on Practicing Ruby and Mendicant University will more-or-less ensure that I am still contributing to the Ruby ecosystem via the interwebs. It just means that if my programmer friends want to grab a drink with me in 2012, they may just need to visit New Haven. I've got an extra bedroom, so don't be afraid to ask!
 
+---
+
 <p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>

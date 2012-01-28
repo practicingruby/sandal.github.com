@@ -56,4 +56,6 @@ If I had to guess at the underlying motivation for all of our students, it would
 
 Similar to the last exercise, an unfortunate realization here is once again that much of Mendicant University is built upon on the desires and interests of the intermediate-level developer. While some of these personas may also apply to beginners, I feel that they mostly are related to the interests and desires of career programmers and dedicated hobbyists. The fact is that I guess I just don't understand enough about beginner programmers to know what kind of needs and interests they have, but I will be sure to read what the other students in this P2PU session wrote for this exercise to learn more about that. After all, that's the whole point I joined this course in the first place. 
 
+---
+
 <p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>

@@ -94,4 +94,6 @@ The reason why I am participating in Greg Wilson's P2PU session is to get some e
 
 Suggestions are welcome for experiments or quasi-experiments that I could conduct to test these ideas and practices. While I am confident that at least some of what we're doing at Mendicant University is effective in a measurable fashion, that's based solely on my intuition and makes it hard for me to judge how repeatable my results would be in other contexts. If you have an idea and are participating in the P2PU course, be sure to catch up with me via the course communications channels, otherwise feel free to [contact me directly](/discussions.html).
 
+---
+
 <p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
