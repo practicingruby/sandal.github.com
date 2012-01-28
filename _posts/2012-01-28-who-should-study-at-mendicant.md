@@ -8,7 +8,7 @@ The [second task](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programmin
 
 Off the top of my head, I came up with a total of seven different personas, but bear in mind that we take a very personalized approach in our program and so this list is bound to be painfully incomplete and far more black-and-white than how we really see our students.
 
-**The Pioneer**
+<u>The Pioneer</u>
 
 Some of our students are busy learning Ruby in environments that it hasn't quite gained a foothold in yet. This group ranges from students in developing countries that don't have many hobbyist or entrepreneurial programmers, to students in the United States and Europe that work in corporate environments that actively discourage the use of non-enterprisey technologies. These students are taking a risk by spending time learning the tools and technologies they like working with, because they are unlikely to be met with short term rewards and the long term picture remains uncertain for them. 
 
