@@ -26,7 +26,7 @@ The way we try to help this kind of student is by discussing each decision point
 
 <p><u>The Builder</u></p>
 
-Many of our students have great ideas, but because they've never built a product themselves from end to end, they often struggle with figuring out out how to put their plans into action. These students may have a full time job or a heavy freelancing workload, and tend to be working on a side project or two in their spare time. This kind of student often has a tendency to bite off much more than they can chew without realizing it, even though they don't realize it until it's too late.
+Many of our students have great ideas, but because they've never built a product themselves from end to end, they often struggle with figuring out out how to put their plans into action. These students may have a full time job or a heavy freelancing workload, and tend to be working on a side project or two in their spare time. This kind of student often has a tendency to bite off much more than they can chew without noticing it, even though they don't realize it until it's too late.
 
 Often times this kind of student is so motivated that all it takes is a push in the right direction and then nothing can stop them. Those who haven't done much active development work outside of a narrowly defined problem space often simply lack knowledge of the appropriate tools and techniques to use to solve their problems. The resources they need are all out there, but it can be hard to find them when they don't know what to search for. With some exposure to experienced instructors and mentors, this kind of student can do very well as long as they keep asking questions often and avoid kludgey hacks whenever elegant alternatives are readily available.
 
