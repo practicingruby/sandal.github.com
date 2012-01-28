@@ -40,7 +40,7 @@ While many of these students end up with a bit more free time for personal devel
 
 A surprisingly large amount of our students have found some degree of comfort and satisfaction in their lives, and wish to use their skills to help others. This kind of student may want to teach or mentor other programmers, contribute to open source projects, or even use their programming skills to support charitable causes that they identify with. For this group of students, the greatest challenge is finding ways that they can give back to society while still maintaining a reasonable work/life balance.
 
-We help this sort of student by helping them think and work in smaller iterations. This makes it possible for them to contribute to the projects they are interested in helping in even if they don't have a ton of extra free time. We also offer a ton of opportunities for students who have this kind of mindset to work on worthwhile projects directly through Mendicant University, and will continue to expand these options over time.
+We help this sort of student by helping them think and work in smaller iterations. This makes it possible for them to contribute to the projects they are interested in helping with even if they don't have a ton of extra free time. We also offer a ton of opportunities for students who have this kind of mindset to work on worthwhile projects directly through Mendicant University, and will continue to expand these options over time.
 
 <p><u>The Lifelong Learner</u></p>
 
