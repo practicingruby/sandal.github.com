@@ -4,6 +4,10 @@ category: essays
 layout: main
 ---
 
+## {{ page.title }}
+
+<hr>
+
 The [second task](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students/content/what-do-you-want-your-learners-to-learn/) we've been assigned in [Greg Wilson's P2PU course](http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students) is meant to help us figure out exactly who we're trying to help through our teaching efforts. We've been asked to explore this question by writing up biographies for the various personas that represent our target audience. For me this is a bit of an awkward exercise because we already have such a diverse and vibrant community associated with Mendicant University, but it doesn't hurt to try to identify the prototypical groups that our students tend to fall into. 
 
 Off the top of my head, I came up with a total of seven different personas, but bear in mind that we take a very personalized approach in our program and so this list is bound to be painfully incomplete and far more black-and-white than how we really see our students.
@@ -51,3 +55,5 @@ I had a lot of mental resistance while working on this exercise. It's not becaus
 If I had to guess at the underlying motivation for all of our students, it would be an intrinsic desire for continuous improvement combined with an active desire to make life easier for themselves as well as the folks they care about. We are a school that emphasizes soft skills and human interactions as much as we do technological skills, and so that makes it tricky for me to define us by our backgrounds or what we say we want rather than the things we do. That said, this exercise did at least get me to think on how we might make a better environment for our different kinds of learners, and that is a good thing.
 
 Similar to the last exercise, an unfortunate realization here is once again that much of Mendicant University is predicated on the desires and interests of the intermediate-level developer. While some of these personas may also apply to beginners, I feel that they mostly are related to the interests and desires of career programmers and dedicated hobbyists. The fact is that I guess I just don't understand enough about beginner programmers to know what kind of needs and interests they have, but I will be sure to read what the other students in this P2PU session wrote for this exercise to learn more about that. After all, that's the whole point I joined this course in the first place. 
+
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
