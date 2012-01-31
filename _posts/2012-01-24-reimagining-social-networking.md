@@ -1,5 +1,5 @@
 ---
-title: Reimagining social networking, a one month challenge 
+title: Reimagining social networking 
 category: essays
 layout: main
 ---
