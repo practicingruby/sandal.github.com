@@ -19,8 +19,8 @@ Awesome!</p>
 
 <p>The easiest way to support me is by becoming a subscriber of my <a
 href="http://practicingruby.com">Practicing Ruby</a> journal. This will help me
-financially while giving you access to some of my best articles months
-before they becomes publicly available.</p>
+financially while giving you access to some of my best writing months
+before it becomes publicly available.</p>
 
 <p>If you would prefer to help me out generally without expecting
 anything in return, you are welcome to join my
