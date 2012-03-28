@@ -23,7 +23,7 @@ financially while giving you access to some of my best articles months
 before they becomes publicly available.</p>
 
 <p>If you would prefer to help me out generally without expecting
-anything in return, you could alternatively join 
+anything in return, you are welcome to join my
 my <a href="http://majesticseacreature.com/network.html">supporter network</a>.
  Small monthly gifts from Ruby community members have helped both
  Mendicant University and Practicing Ruby stay afloat since early
