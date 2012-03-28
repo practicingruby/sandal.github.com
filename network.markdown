@@ -7,7 +7,7 @@ layout: main
 
 Since early 2011, I have been accepting financial support in the form of small
 monthly payments to support my work on <a
-href="http://mendicantuniversity.org">Mendican University</a> as well as my open
+href="http://mendicantuniversity.org">Mendicant University</a> as well as my open
 source projects. These contributions have made my life much easier, especially
 when I was in the process of transitioning away from consulting work to focusing
 entirely on writing and teaching.
