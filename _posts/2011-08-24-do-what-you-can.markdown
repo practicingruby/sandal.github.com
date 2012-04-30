@@ -21,3 +21,5 @@ When I look at what I accomplished in any given day, I always tend to compare it
 This is a subtle shift in perspective, but one that I think could really make a difference. By recognizing the kind of day I'm having, I can choose to set my standards accordingly. On my best of days, perhaps I should be pushing myself even harder. Why shoot for the moon when I can shoot for the stars? On the worst days, well... maybe I can just write an essay instead of playing MineCraft all day.
 
 That's the best I could do today, what about you?
+
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
