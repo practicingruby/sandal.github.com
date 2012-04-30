@@ -8,7 +8,7 @@ layout: main
 
 <hr>
 
-There are some days where feel nearly invincible. On those days, nothing can distract me. Everything seems to fall perfectly into place and all my actions look and feel effortless. If I'm lucky, I get one or two days like this each month, and I enjoy every minute of them.
+There are some days when I feel nearly invincible. On those days, nothing can distract me. Everything seems to fall perfectly into place and all my actions look and feel effortless. If I'm lucky, I get one or two days like this each month, and I enjoy every minute of them.
 
 On the flip side, there are days that just feel like a sucker punch to the stomach. On those days, everything distracts me, and I feel like I'm wearing shoes that are two sizes too small. Nothing works as expected, and I can barely get up the effort to watch mindless YouTube videos. Thankfully, these days are about as rare as my very best ones.
 
