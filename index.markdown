@@ -10,3 +10,7 @@ Hi there! I am [Gregory Brown](http://community.mendicantuniversity.org/people/s
 {% for post in site.categories.essays %}
 ### [{{ post.title }}]({{post.url}})
 {% endfor %}
+
+---
+
+Want to share your thoughts about these essays? Feel free to [email me.](mailto:gregory.t.brown@gmail.com)
