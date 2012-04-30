@@ -22,4 +22,6 @@ This is a subtle shift in perspective, but one that I think could really make a 
 
 That's the best I could do today, what about you?
 
+---
+
 <p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
