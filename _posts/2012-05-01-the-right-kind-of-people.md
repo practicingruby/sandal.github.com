@@ -60,7 +60,8 @@ business that cannot be gained through embracing the consumer mindset.
 A business must be profitable to survive, but in order to truly thrive, it needs
 to be in tune with its customers. This is a whole lot easier to do when you
 choose to serve the folks who treat you like a friend instead of a line item on
-their bank statement. As long as you return the favor, good things will happen!
+their bank statement. Good things happen when you find customers like this and
+return the favor to them.
 
 ---
 
