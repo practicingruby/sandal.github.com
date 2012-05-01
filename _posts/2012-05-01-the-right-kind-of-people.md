@@ -56,3 +56,7 @@ with your supporters, they will go along for the ride with you whether it is
 smooth sailing or not. While this may not be the most profitable thing to do
 economically speaking, it builds genuine sustainability for your
 business that cannot be gained through embracing the consumer mindset.
+
+---
+
+<p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
