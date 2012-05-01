@@ -1,5 +1,5 @@
 ---
-title: The right kind of people
+title: Serving the right kind of people
 category: essays
 layout: main
 ---
@@ -54,5 +54,5 @@ A better way of looking at things is to judge your progress by how happy you
 make those who truly believe in what you are trying to do. If you build up trust
 with your supporters, they will go along for the ride with you whether it is
 smooth sailing or not. While this may not be the most profitable thing to do
-economically speaking, it helps build a sort of genuine sustainability for your
+economically speaking, it helps build genuine sustainability for your
 business that cannot be gained through embracing the consumer mindset.
