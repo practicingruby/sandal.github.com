@@ -57,6 +57,11 @@ smooth sailing or not. While this may not be the most profitable thing to do
 economically speaking, it builds genuine sustainability for your
 business that cannot be gained through embracing the consumer mindset.
 
+A business must be profitable to survive, but in order to truly thrive, it needs
+to be in tune with its customers. This is a whole lot easier to do when you
+choose to serve the folks who treat you like a friend instead of a line item on
+their bank statement.
+
 ---
 
 <p style="text-align: center; font-size: 1.0em">Written by Gregory Brown on {{ page.date | date_to_long_string }}. If you enjoyed this essay, please share it with your friends.</p>
