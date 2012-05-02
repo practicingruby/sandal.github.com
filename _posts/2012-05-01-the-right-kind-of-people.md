@@ -61,7 +61,7 @@ What I have found with Practicing Ruby is that by trusting the folks who are
 actively supportive of my efforts, I can maintain a steady 
 revenue stream without second guessing myself every time I hit a bump in the
 road. This gives me the freedom to take a much more human approach to my
-business, which is something I could never put a price on.
+business, and that is something I could never put a price on.
 
 ---
 
