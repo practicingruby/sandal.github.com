@@ -60,7 +60,8 @@ business that cannot be gained through embracing the consumer mindset.
 A business must be profitable to survive, but in order to truly thrive, it needs
 to be in tune with its customers. Knowing who your supporters are and listening
 to them is one of the best ways to keep your spirits high even when times are
-tough.
+tough. It may not be the fastest way to line your pockets with cash, but it does
+lead to a happier, healthier way of living and working.
 
 ---
 
