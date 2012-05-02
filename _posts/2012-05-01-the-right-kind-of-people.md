@@ -57,11 +57,11 @@ smooth sailing or not. While this may not be the most profitable thing to do
 economically speaking, it builds genuine sustainability for your
 business that cannot be gained through embracing the consumer mindset.
 
-A business must be profitable to survive, but in order to truly thrive, it needs
-to be in tune with its customers. Knowing who your supporters are and listening
-to them is one of the best ways to keep your spirits high even when times are
-tough. It may not be the fastest way to line your pockets with cash, but it does
-lead to a happier, healthier way of living and working.
+What I have found with Practicing Ruby is that by trusting the folks who are 
+actively supportive of my efforts, I can maintain a steady 
+revenue stream without second guessing myself every time I hit a bump in the
+road. This gives me the freedom to take a much more human approach to my
+business, which is something I could never put a price on.
 
 ---
 
