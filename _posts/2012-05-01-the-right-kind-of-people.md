@@ -58,10 +58,9 @@ economically speaking, it builds genuine sustainability for your
 business that cannot be gained through embracing the consumer mindset.
 
 A business must be profitable to survive, but in order to truly thrive, it needs
-to be in tune with its customers. This is a whole lot easier to do when you
-choose to serve the folks who treat you like a friend instead of a line item on
-their bank statement. Good things happen when you find customers like this and
-return the favor to them.
+to be in tune with its customers. Knowing who your supporters are and listening
+to them is one of the best ways to keep your spirits high even when times are
+tough.
 
 ---
 
