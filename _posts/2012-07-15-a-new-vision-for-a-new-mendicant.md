@@ -165,7 +165,9 @@ useful in a number of ways. The same goes for contributing to open-source
 projects that aren't on our critical path: these kinds of activities can
 help others to get to know about us and our mission, and also help us broaden
 our perspective and encourage cross-pollination of ideas within the
-software development ecosystem.
+software development ecosystem. For this reason, we should probably
+encourage folks to come work on whatever they'd like during our project
+days, even if they're not specifically related to our core projects.
 
 If we can find a bit of balance, both our old methods
 and new approaches can co-exist peacefully. I think that simply labeling 
