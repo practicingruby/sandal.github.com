@@ -189,7 +189,7 @@ to adjust accordingly.
 The most common lament of Mendicant University alumni is that by 
 eliminating our core skills course, it is harder for newcomers to get
 the community bonding experience that our school became known for. Many 
-of alumni also found that the focused feedback and deep challenges 
+of our alumni also found that the focused feedback and deep challenges 
 involved in the core skills course facilitated a kind of explosive 
 growth that is hard to find elsewhere. By changing the way that
 Mendicant works, we have definitely lost some of those benefits.
