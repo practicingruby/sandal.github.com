@@ -75,15 +75,15 @@ the following five step plan for turning the school around.
 A small list of core projects that Mendicant University is 
 working on should be created and actively maintained. These
 projects would be focused on fundamental human needs rather
-than the needs of software development. 
+than the needs of software developers. 
 
 At the most basic level, things like Mission of Mercy 
 and Main Street Mission are obvious candidates, because 
 they both address real physical suffering in the world. 
 Projects like Swan4Kids are also worth considering, 
 because they are targeted at basic emotional needs of 
-children and could certainly make a positive 
-difference in the lives of real children.
+children and could certainly radically change the lives
+of young people.
 
 Projects such as rstat.us are harder to judge. To be 
 certain, working on federated communications systems 
