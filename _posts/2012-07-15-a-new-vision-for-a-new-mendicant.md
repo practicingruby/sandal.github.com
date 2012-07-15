@@ -27,7 +27,7 @@ longer can claim ownership of what "Mendicant University" means, but
 what follows is a sketch of what I currently see when I close my eyes
 and step into my imaginary world.
 
-** How to bring Mendicant University back to its true roots **
+**How to bring Mendicant University back to its true roots**
 
 The whole idea of Mendicant University starts and ends with _purposeful
 programming_. With that in mind, the most important question we can ask
