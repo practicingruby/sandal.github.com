@@ -82,8 +82,8 @@ and Main Street Mission are obvious candidates, because
 they both address real physical suffering in the world. 
 Projects like Swan4Kids are also worth considering, 
 because they are targeted at basic emotional needs of 
-children and could certainly radically change the lives
-of young people.
+children and could potentially radically change the lives
+of disadvantaged young people.
 
 Projects such as rstat.us are harder to judge. To be 
 certain, working on federated communications systems 
